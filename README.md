@@ -1,34 +1,39 @@
-<h1 align="center">👋 Hi, I'm Mishael!</h1>
+<h1 align="center">Hello there,👋 I'm Mishael!</h1>
 
 <h2><p align="center">
 <b>Data Analyst 📊📉</b>  
 </p></h2>
+
 
 ---
 
 ## 🚀 About Me  
 I am a **Data Analyst** passionate about transforming raw data into actionable insights. With expertise in **business intelligence, data visualization, and data-driven decision-making**, I utilize **Python, SQL, Power BI, and Excel (Power Query)** to extract meaningful trends and support strategic decisions.  
 
-I am currently working on **advanced analytics dashboards, market trend analysis, and predictive modeling**, while also improving my **machine learning skills for data analysis**.
+> I am currently working on **advanced analytics dashboards, market trend analysis, and predictive modeling**, while also improving my **machine learning skills for data analysis**.
 
 ---
 
 ## 🔥 Skills & Tools  
 
-### **📊 Data Analytics & Visualization**
 <p>
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/anaconda/original.svg"/>
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" />
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/144/power-bi.png" />
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/144/microsoft-sql-server.png" />
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/anaconda/original.svg">
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png">
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/144/power-bi.png">
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/144/microsoft-sql-server.png">
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">  
 </p><br>
 
+
+---
+
+## 📊 GitHub Stats  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishael-fav)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -65,4 +70,5 @@ I am currently working on **advanced analytics dashboards, market trend analysis
 
 ---
 
-⭐ **"Turning Data into Meaningful Insights!"**  
+ 
+⭐ **"Turning Data into Meaningful Insights!"** 
