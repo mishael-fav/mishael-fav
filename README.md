@@ -1,10 +1,8 @@
 <h1 align="center">👋 Hi, I'm Mishael!</h1>
 
-<div style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
-  <h2><p align="center">
-  <b>Data Analyst 📊📉</b>  
-  </p></h2>
-</div>
+<h2><p align="center">
+<b>Data Analyst 📊📉</b>  
+</p></h2>
 
 ---
 
