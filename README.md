@@ -45,13 +45,15 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 📸 **Preview:**  
 ![View Dashboard](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/blob/main/COHORT_RETENTION_DASHBOARD.png)
 
-### **🛡 Adaptive Fraud Detection System (AFDS)**
-📌 **Objective:** A semi-autonomous fraud detection model for banking transactions.  
-🔗 **[View Project](#)**  
+### **EDA_MARKETING_CAMPAIGN**
+📌 **Objective:** To uncover actionable insights that will guide decision-making in marketing strategy, campaign optimization, and audience targeting.  
+🔗 **[View Project](https://github.com/mishael-fav/EDA_MARKETING_CAMPAIGN)**  
 
-### **🌍 Inundata: Mapping Floods in South Africa**
+### **Route-Optimization-for-Food-Delivery Public**
 📌 **Objective:** Machine learning model for **flood prediction** using CHIRPS precipitation data & Sentinel-2 imagery.  
-🔗 **[View Project](#)**  
+🔗 **[View Project](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery)**  
+📸 **Preview:**  
+![View Dashboard](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery/blob/main/Power%20BI%20Pictures/DashboardOverview.png)
 
 ---
 
