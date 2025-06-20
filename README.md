@@ -32,18 +32,17 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 
 ---
 
-## 📊 GitHub Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishael-fav)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📈 Featured Projects  
 
-### **📊 Advanced Business Insights Dashboard**
-📌 **Objective:** A Power BI dashboard comparing **Google Play Store & Apple App Store** metrics.  
-🔗 **[View Project](#)**  
+### **📊 Cohort Retention Analysis**
+📌 **Objective:** 
+- Understand customer purchasing behavior over time.
+- Analyze retention rates across different customer cohorts.
+- Visualize patterns and trends to support business decision-making.
+- Build a Cohort Retention Dashboard for interactive insights. 
+🔗 **[View Project](COHORT-RETENTION-ANALYSIS/Cohort_Retention_Analysis.sql)**  
 📸 **Preview:**  
-<img src="https://user-images.githubusercontent.com/placeholder/dashboard-screenshot.png" width="80%" alt="Dashboard Preview">
+![View Dashboard](COHORT-RETENTION-ANALYSIS/COHORT_RETENTION_DASHBOARD.png)
 
 ### **🛡 Adaptive Fraud Detection System (AFDS)**
 📌 **Objective:** A semi-autonomous fraud detection model for banking transactions.  
