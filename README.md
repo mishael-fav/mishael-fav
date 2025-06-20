@@ -36,10 +36,11 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 
 ### **📊 Cohort Retention Analysis**
 📌 **Objective:** 
-- Understand customer purchasing behavior over time.
-- Analyze retention rates across different customer cohorts.
-- Visualize patterns and trends to support business decision-making.
-- Build a Cohort Retention Dashboard for interactive insights. 
+  - Understand customer purchasing behavior over time.
+  - Analyze retention rates across different customer cohorts.
+  - Visualize patterns and trends to support business decision-making.
+  - Build a Cohort Retention Dashboard for interactive insights.
+  
 🔗 **[View Project](COHORT-RETENTION-ANALYSIS/Cohort_Retention_Analysis.sql)**  
 📸 **Preview:**  
 ![View Dashboard](COHORT-RETENTION-ANALYSIS/COHORT_RETENTION_DASHBOARD.png)
