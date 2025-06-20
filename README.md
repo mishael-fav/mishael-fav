@@ -41,7 +41,7 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
   - Visualize patterns and trends to support business decision-making.
   - Build a Cohort Retention Dashboard for interactive insights.
   
-🔗 **[View Project](COHORT-RETENTION-ANALYSIS/Cohort_Retention_Analysis.sql)**  
+🔗 **[View Project](COHORT-RETENTION-ANALYSIS)**  
 📸 **Preview:**  
 ![View Dashboard](COHORT-RETENTION-ANALYSIS/COHORT_RETENTION_DASHBOARD.png)
 
