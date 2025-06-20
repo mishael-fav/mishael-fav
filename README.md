@@ -43,7 +43,7 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
   
 🔗 **[View Project](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)**  
 📸 **Preview:**  
-![View Dashboard](COHORT-RETENTION-ANALYSIS/COHORT_RETENTION_DASHBOARD.png)
+![View Dashboard](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/blob/main/COHORT_RETENTION_DASHBOARD.png)
 
 ### **🛡 Adaptive Fraud Detection System (AFDS)**
 📌 **Objective:** A semi-autonomous fraud detection model for banking transactions.  
