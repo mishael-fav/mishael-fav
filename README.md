@@ -50,7 +50,11 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 🔗 **[View Project](https://github.com/mishael-fav/EDA_MARKETING_CAMPAIGN)**  
 
 ### **Route-Optimization-for-Food-Delivery Public**
-📌 **Objective:** Machine learning model for **flood prediction** using CHIRPS precipitation data & Sentinel-2 imagery.  
+📌 **Objective:**
+  ✅ Streamline delivery routes to reduce lead times by 20%
+  ✅ Lower operational costs by 15% through improved route efficiency
+  ✅ Improve driver satisfaction by minimizing traffic-related delays
+  ✅ Provide real-time delivery insights to support dynamic route optimization
 🔗 **[View Project](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery)**  
 📸 **Preview:**  
 ![View Dashboard](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery/blob/main/Power%20BI%20Pictures/DashboardOverview.png)
