@@ -11,6 +11,7 @@
 I am a **Data Analyst** passionate about transforming raw data into actionable insights. With expertise in **business intelligence, data visualization, and data-driven decision-making**, I utilize **Python, SQL, Power BI, and Excel (Power Query)** to extract meaningful trends and support strategic decisions.  
 
 > I am currently working on **advanced analytics dashboards, market trend analysis, and predictive modeling**, while also improving my **machine learning skills for data analysis**.
+**OPEN TO WORK**
 
 ---
 
