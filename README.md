@@ -12,7 +12,7 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 
 > I am currently working on **advanced analytics dashboards, market trend analysis, and predictive modeling**, while also improving my **machine learning skills for data analysis**.
 
-**OPEN TO WORK**
+**OPEN TO WORK** 🤝
 
 ---
 
