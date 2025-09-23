@@ -6,7 +6,8 @@
 <h2><p align="center">
 <b> **[View Project](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)** </b>  
 </p></h2>
-[Portfolio](https://sylviacontact.my.canva.site/mishaelportfolio)
+
+  [Portfolio](https://sylviacontact.my.canva.site/mishaelportfolio)
 
 ---
 
@@ -34,8 +35,6 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">  
 </p><br>
 
-📸 **Preview:**  
-![View Dashboard](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/blob/main/COHORT_RETENTION_DASHBOARD.png)
 ---
 
 ## 📈 Featured Projects  
