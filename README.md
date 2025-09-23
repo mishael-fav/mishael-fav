@@ -3,8 +3,8 @@
 <h2><p align="center">
 <b>Data Analyst 📊📉</b>  
 </p></h2>
-<h2><p align="center">
-  **[View Project](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)** 
+<h2><p align="center"> 
+  [Portfolio Website](https://sylviacontact.my.canva.site/mishaelportfolio)
 </p></h2>
 
   [Portfolio Website](https://sylviacontact.my.canva.site/mishaelportfolio)
