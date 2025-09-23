@@ -2,6 +2,7 @@
 
 <h2><p align="center">
 <b>Data Analyst 📊📉</b>  
+**[View Project](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)** 
 </p></h2>
 
 
