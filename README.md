@@ -4,10 +4,10 @@
 <b>Data Analyst 📊📉</b>  
 </p></h2>
 <h2><p align="center">
-<b> **[View Project](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)** </b>  
+  **[View Project](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)** 
 </p></h2>
 
-  [Portfolio](https://sylviacontact.my.canva.site/mishaelportfolio)
+  [Portfolio Website](https://sylviacontact.my.canva.site/mishaelportfolio)
 
 ---
 
