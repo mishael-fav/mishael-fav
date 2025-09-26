@@ -35,6 +35,16 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 ---
 
 ## 📈 Featured Projects  
+### **UrbanEats Route Optimization for Urban Food Delivery**
+🔗 **[View Project](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery)** 
+#### 📌The UrbanEats Route Optimization Project was developed to tackle prolonged delivery times, rising operational costs, and inefficient driver utilization in Lagos’ urban food delivery market. Using SQL for data analysis and Power BI for visualization, the project established baseline metrics such as average delivery lead time, operational cost per delivery, delivery accuracy, and driver workload, then applied traffic-aware route optimization to model more efficient deliveries. The results showed a 20% reduction in delivery lead times and a 15% decrease in operational costs, while also improving driver satisfaction through balanced assignments. This data-driven approach positions UrbanEats to deliver faster, more reliable, and cost-effective services, strengthening customer trust and ensuring a competitive edge in the market.
+
+📸 **Preview:**  
+![View Dashboard](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery/blob/main/Power%20BI%20Pictures/DashboardOverview.png)
+
+
+ 
+
 
 ### **📊 Cohort Retention Analysis**
 📌 **Objective:** 
@@ -52,16 +62,7 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 📌 **Objective:** To uncover actionable insights that will guide decision-making in marketing strategy, campaign optimization, and audience targeting.  
 🔗 **[View Project](https://github.com/mishael-fav/EDA_MARKETING_CAMPAIGN)**  
 
-### **Route-Optimization-for-Food-Delivery Public**
-📌 **Objective:**
-  - Streamline delivery routes to reduce lead times by 20%
-  - Lower operational costs by 15% through improved route efficiency
-  - Improve driver satisfaction by minimizing traffic-related delays
-  - Provide real-time delivery insights to support dynamic route optimization
 
-🔗 **[View Project](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery)**  
-📸 **Preview:**  
-![View Dashboard](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery/blob/main/Power%20BI%20Pictures/DashboardOverview.png)
 
 ---
 
