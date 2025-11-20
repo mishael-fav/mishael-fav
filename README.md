@@ -35,7 +35,7 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 ---
 
 ## 📈 Featured Projects  
-# 1️⃣**[UrbanEats Route Optimization for Urban Food Delivery](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery)** 
+# 1️⃣ **[UrbanEats Route Optimization for Urban Food Delivery](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery)** 
 #### 📌The UrbanEats Route Optimization Project was developed to tackle `prolonged delivery times`, `rising operational costs`, and `inefficient driver utilization` in Lagos’ urban food delivery market. Using SQL for data analysis and Power BI for visualization, the project established baseline metrics such as average delivery lead time, operational cost per delivery, delivery accuracy, and driver workload, then applied traffic-aware route optimization to model more efficient deliveries. The results showed a 20% reduction in delivery lead times and a 15% decrease in operational costs, while also improving driver satisfaction through balanced assignments. This data-driven approach positions UrbanEats to deliver faster, more reliable, and cost-effective services, strengthening customer trust and ensuring a competitive edge in the market.
 
 📸 **Preview:**  
