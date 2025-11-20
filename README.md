@@ -46,14 +46,10 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
  
 
 
-# 2️⃣**📊 Cohort Retention Analysis**
-📌 **Objective:** 
-  - Understand customer purchasing behavior over time.
-  - Analyze retention rates across different customer cohorts.
-  - Visualize patterns and trends to support business decision-making.
-  - Build a Cohort Retention Dashboard for interactive insights.
+# 2️⃣**📊 [Cohort Retention Analysis](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)**
+📌 This project explores customer behavior through a Cohort Retention Analysis of online retail data. Leveraging SQL, I cleaned transactional records, calculated Cohort Indices, and generated retention matrices to track engagement. The final insights were visualized in Tableau to highlight churn trends and retention opportunities over time
   
-🔗 **[View Project](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)**
+🔗 **[Cohort Retention Analysis](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)**
 
 📸 **Preview:**  
 ![View Dashboard](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/blob/main/COHORT_RETENTION_DASHBOARD.png)
