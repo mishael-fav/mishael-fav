@@ -35,7 +35,7 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 ---
 
 ## 📈 Featured Projects  
-## 1️⃣**UrbanEats Route Optimization for Urban Food Delivery**
+# 1️⃣**UrbanEats Route Optimization for Urban Food Delivery**
 🔗 **[View Project](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery)** 
 #### 📌The UrbanEats Route Optimization Project was developed to tackle `prolonged delivery times`, `rising operational costs`, and `inefficient driver utilization` in Lagos’ urban food delivery market. Using SQL for data analysis and Power BI for visualization, the project established baseline metrics such as average delivery lead time, operational cost per delivery, delivery accuracy, and driver workload, then applied traffic-aware route optimization to model more efficient deliveries. The results showed a 20% reduction in delivery lead times and a 15% decrease in operational costs, while also improving driver satisfaction through balanced assignments. This data-driven approach positions UrbanEats to deliver faster, more reliable, and cost-effective services, strengthening customer trust and ensuring a competitive edge in the market.
 
@@ -46,7 +46,7 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
  
 
 
-### **📊 Cohort Retention Analysis**
+# 2️⃣**📊 Cohort Retention Analysis**
 📌 **Objective:** 
   - Understand customer purchasing behavior over time.
   - Analyze retention rates across different customer cohorts.
@@ -58,7 +58,7 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 📸 **Preview:**  
 ![View Dashboard](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/blob/main/COHORT_RETENTION_DASHBOARD.png)
 
-### **EDA_MARKETING_CAMPAIGN**
+# 3️⃣**EDA_MARKETING_CAMPAIGN**
 📌 **Objective:** To uncover actionable insights that will guide decision-making in marketing strategy, campaign optimization, and audience targeting.  
 🔗 **[View Project](https://github.com/mishael-fav/EDA_MARKETING_CAMPAIGN)**  
 
