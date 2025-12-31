@@ -49,9 +49,11 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 📸 **Preview:**  
 ![View Dashboard](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/blob/main/images/Cohort_retention_overview.png)
 
-# 3️⃣ **EDA_MARKETING_CAMPAIGN**
-📌 **Objective:** To uncover actionable insights that will guide decision-making in marketing strategy, campaign optimization, and audience targeting.  
-🔗 **[View Project](https://github.com/mishael-fav/EDA_MARKETING_CAMPAIGN)**  
+# 3️⃣ **[Global Unicorn Arbitrage Strategy](https://github.com/mishael-fav/UNICORN-COMPANIES/tree/main)**
+📌 An interactive analysis of 1,000+ billion-dollar startups using SQL and DAX. Features a custom "Burn vs. Efficiency" model to decouple real innovation from liquidity bubbles and map the "Kingmaker" investor network.  
+
+ 📸 **Preview:**  
+![View Dashboard](https://github.com/mishael-fav/UNICORN-COMPANIES/blob/main/dashboard_pic/CAPITAL_EFFICIENCY.PNG)
 
 
 
