@@ -50,7 +50,7 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 ![View Dashboard](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/blob/main/images/Cohort_retention_overview.png)
 
 # 3️⃣ **[Global Unicorn Arbitrage Strategy](https://github.com/mishael-fav/UNICORN-COMPANIES/tree/main)**
-📌 An interactive analysis of 1,000+ billion-dollar startups using SQL and DAX. Features a custom "Burn vs. Efficiency" model to decouple real innovation from liquidity bubbles and map the "Kingmaker" investor network.  
+📌 This Power BI project analyzes the landscape of "Unicorn" companies (startups valued at $1B+) to identify optimal investment strategies. Moving beyond simple counts, this dashboard uses a "Geography Arbitrage" framework to classify global ecosystems into "Emerging Efficiency Hubs" (Low Entry Price, High Opportunity) versus "Premium Saturated Hubs" (High Entry Price, High Stability) 
 
  📸 **Preview:**  
 ![View Dashboard](https://github.com/mishael-fav/UNICORN-COMPANIES/blob/main/dashboard_pic/CAPITAL_EFFICIENCY.PNG)
