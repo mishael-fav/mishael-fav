@@ -4,7 +4,7 @@
 <b>Data Analyst 📊📉</b>  
 </p></h2>
 
-## [VIEW RESUME](https://drive.google.com/file/d/109GDIy5dG5QgrZgMhLgEvd4CzVT-28Qk/view?usp=sharing)
+### [VIEW RESUME](https://drive.google.com/file/d/109GDIy5dG5QgrZgMhLgEvd4CzVT-28Qk/view?usp=sharing)
 
 ---
 
