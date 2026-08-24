@@ -4,7 +4,7 @@
 <b>Data Analyst 📊📉</b>  
 </p></h2>
 
-  [Portfolio Website](https://sylviacontact.my.canva.site/mishaelportfolio)
+## [RESUME](https://drive.google.com/file/d/109GDIy5dG5QgrZgMhLgEvd4CzVT-28Qk/view?usp=sharing)
 
 ---
 
