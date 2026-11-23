@@ -40,7 +40,6 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 📸 **Preview:**  
 ![View Dashboard](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery/blob/main/Power%20BI%20Pictures/DashboardOverview.png)
 
-
  
 # 2️⃣ **[Cohort Retention Analysis](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)**
 📌 This project explores customer behavior through a Cohort Retention Analysis of online retail data. Leveraging SQL, I cleaned transactional records, calculated Cohort Indices, and generated retention matrices to track engagement. The final insights were visualized in Tableau to highlight churn trends and retention opportunities over time
@@ -48,11 +47,11 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 📸 **Preview:**  
 ![View Dashboard](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/blob/main/images/Cohort_retention_overview.png)
 
-# 3️⃣ **[Global Unicorn Arbitrage Strategy](https://github.com/mishael-fav/UNICORN-COMPANIES/tree/main)**
-📌 This Power BI project analyzes the landscape of "Unicorn" companies (startups valued at $1B+) to identify optimal investment strategies. Moving beyond simple counts, this dashboard uses a "Geography Arbitrage" framework to classify global ecosystems into "Emerging Efficiency Hubs" (Low Entry Price, High Opportunity) versus "Premium Saturated Hubs" (High Entry Price, High Stability) 
+# 3️⃣ **[Global Unicorn Strategy](https://github.com/mishael-fav/UNICORN-COMPANIES/tree/main)**
+📌 This Power BI project analyzes the landscape of "Unicorn" companies (startups valued at $1B+) to identify optimal investment strategies. Moving beyond simple counts, this dashboard uses a "Geography Ecosystem" framework to classify global Unicorn into "Emerging Efficiency Hubs" (Low Entry Price, High Opportunity) versus "Premium Saturated Hubs" (High Entry Price, High Stability) 
 
  📸 **Preview:**  
-![View Dashboard](https://github.com/mishael-fav/UNICORN-COMPANIES/blob/main/dashboard_pic/CAPITAL_EFFICIENCY.PNG)
+![View Dashboard](https://github.com/mishael-fav/UNICORN-COMPANIES/blob/main/images/capitalefficiency.PNG)
 
 
 
