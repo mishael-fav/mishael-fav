@@ -34,13 +34,13 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 ---
 
 ## Featured Projects  
-# **[Cohort Retention Analysis](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)**
+## **[Cohort Retention Analysis](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)**
 📌 This project explores customer behavior through a Cohort Retention Analysis of online retail data. Leveraging SQL, I cleaned transactional records, calculated Cohort Indices, and generated retention matrices to track engagement. The final insights were visualized in Tableau to highlight churn trends and retention opportunities over time
 
 📸 **Preview:**  
 ![View Dashboard](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/blob/main/images/cr6.png)
 
-# **[Global Unicorn Strategy](https://github.com/mishael-fav/UNICORN-COMPANIES/tree/main)**
+## **[Global Unicorn Strategy](https://github.com/mishael-fav/UNICORN-COMPANIES/tree/main)**
 📌 This Power BI project analyzes the landscape of "Unicorn" companies (startups valued at $1B+) to identify optimal investment strategies. Moving beyond simple counts, this dashboard uses a "Geography Ecosystem" framework to classify global Unicorn into "Emerging Efficiency Hubs" (Low Entry Price, High Opportunity) versus "Premium Saturated Hubs" (High Entry Price, High Stability) 
 
  📸 **Preview:**  
