@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I am a **Data Analyst** passionate about transforming raw data into actionable insights. With expertise in **business intelligence, data visualization, and data-driven decision-making**, I utilize **Python, SQL, Power BI, and Excel (Power Query)** to extract meaningful trends and support strategic decisions.  
 
 
@@ -16,7 +16,7 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 
 ---
 
-## 🔥 Skills & Tools  
+## Skills & Tools  
 
 <p>
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
@@ -33,21 +33,14 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 
 ---
 
-## 📈 Featured Projects  
-# 1️⃣ **[UrbanEats Route Optimization for Urban Food Delivery](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery)** 
-📌 The UrbanEats Route Optimization Project was developed to tackle `prolonged delivery times`, `rising operational costs`, and `inefficient driver utilization` in Lagos’ urban food delivery market. Using SQL for data analysis and Power BI for visualization, the project established baseline metrics such as average delivery lead time, operational cost per delivery, delivery accuracy, and driver workload, then applied traffic-aware route optimization to model more efficient deliveries. The results showed a 20% reduction in delivery lead times and a 15% decrease in operational costs, while also improving driver satisfaction through balanced assignments. This data-driven approach positions UrbanEats to deliver faster, more reliable, and cost-effective services, strengthening customer trust and ensuring a competitive edge in the market.
-
-📸 **Preview:**  
-![View Dashboard](https://github.com/mishael-fav/Route-Optimization-for-Food-Delivery/blob/main/Power%20BI%20Pictures/DashboardOverview.png)
-
- 
-# 2️⃣ **[Cohort Retention Analysis](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)**
+## Featured Projects  
+# 1 **[Cohort Retention Analysis](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)**
 📌 This project explores customer behavior through a Cohort Retention Analysis of online retail data. Leveraging SQL, I cleaned transactional records, calculated Cohort Indices, and generated retention matrices to track engagement. The final insights were visualized in Tableau to highlight churn trends and retention opportunities over time
 
 📸 **Preview:**  
-![View Dashboard](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/blob/main/images/Cohort_retention_overview.png)
+![View Dashboard](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/blob/main/images/cr6.png)
 
-# 3️⃣ **[Global Unicorn Strategy](https://github.com/mishael-fav/UNICORN-COMPANIES/tree/main)**
+# 2 **[Global Unicorn Strategy](https://github.com/mishael-fav/UNICORN-COMPANIES/tree/main)**
 📌 This Power BI project analyzes the landscape of "Unicorn" companies (startups valued at $1B+) to identify optimal investment strategies. Moving beyond simple counts, this dashboard uses a "Geography Ecosystem" framework to classify global Unicorn into "Emerging Efficiency Hubs" (Low Entry Price, High Opportunity) versus "Premium Saturated Hubs" (High Entry Price, High Stability) 
 
  📸 **Preview:**  
@@ -70,4 +63,4 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 ---
 
  
-⭐ **"Turning Data into Meaningful Insights!"** 
+ **"Turning Data into Meaningful Insights!"** 
