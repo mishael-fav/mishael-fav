@@ -12,7 +12,7 @@
 I am a **Data Analyst** passionate about transforming raw data into actionable insights. With expertise in **business intelligence, data visualization, and data-driven decision-making**, I utilize **Python, SQL, Power BI, and Excel (Power Query)** to extract meaningful trends and support strategic decisions.  
 
 
-### OPEN TO WORK - [alelumemishael@gmail.com](mailto:alelumemishael@gmail.com)
+### OPEN TO WORK - [alelumemishael@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=alelumemishael@gmail.com&su=Data%20Analytics%20Portfolio%20Inquiry)
 
 ---
 
