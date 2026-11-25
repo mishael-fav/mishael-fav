@@ -35,7 +35,7 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 
 ## Featured Projects  
 ## **[Cohort Retention Analysis](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/tree/main)**
-📌 Diagnosed customer churn and revenue concentration across **4,297 e-commerce buyers ($8.36M net revenue)** using **T-SQL** and **Tableau**. Engineered 12-month cohort retention matrices and 5-tier RFM behavioral segmentation—uncovering a **76.3% Month-1 drop-off** (`23.7%` Month-2 retention), a **50.3% Month-12 benchmark**, and **74.6% of total revenue ($6.24M)** concentrated within VIP buyers[cite: 1].
+📌 Diagnosed customer churn and revenue concentration across **4,297 e-commerce buyers ($8.36M net revenue)** using **T-SQL** and **Tableau**. Engineered 12-month cohort retention matrices and 5-tier RFM behavioral segmentation, uncovering a **76.3% Month-1 drop-off** (`23.7%` Month-2 retention), a **50.3% Month-12 benchmark**, and **74.6% of total revenue ($6.24M)** concentrated within VIP buyers.
 
 📸 **Preview:**  
 ![View Dashboard](https://github.com/mishael-fav/COHORT-RETENTION-ANALYSIS/blob/main/images/cr6.png)
