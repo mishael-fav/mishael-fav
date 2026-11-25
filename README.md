@@ -1,7 +1,7 @@
 <h1 align="center">Hello there,👋 I'm Mishael!</h1>
 
 <h2><p align="center">
-<b>Data Analyst 📊📉</b>  
+<b>Data Analyst</b>  
 </p></h2>
 
 ### [VIEW RESUME](https://drive.google.com/file/d/109GDIy5dG5QgrZgMhLgEvd4CzVT-28Qk/view?usp=sharing)
@@ -12,7 +12,8 @@
 I am a **Data Analyst** passionate about transforming raw data into actionable insights. With expertise in **business intelligence, data visualization, and data-driven decision-making**, I utilize **Python, SQL, Power BI, and Excel (Power Query)** to extract meaningful trends and support strategic decisions.  
 
 
-## OPEN TO WORK 🤝
+## OPEN TO WORK (https://drive.google.com/file/d/109GDIy5dG5QgrZgMhLgEvd4CzVT-28Qk/view?usp=sharing)
+### **Email:** [alelumemishael@gmail.com](mailto:alelumemishael@gmail.com)
 
 ---
 
