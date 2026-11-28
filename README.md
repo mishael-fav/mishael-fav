@@ -3,7 +3,6 @@
 <h2><p align="center">
 <b>Data Analyst | Business Intelligence </b>
 </p></h2>
----
 
 ## About Me  
 > *Tools pull the numbers; analytics refines the context. I provide the insight.*
