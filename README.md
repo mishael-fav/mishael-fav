@@ -1,7 +1,7 @@
 <h1 align="center">Hello there,👋 I'm Mishael!</h1>
 
 <h2><p align="center">
-**Data Analyst | Business Intelligence** 
+<b>Data Analyst | Business Intelligence </b>
 </p></h2>
 ---
 
@@ -12,7 +12,7 @@ I work at the intersection of data analytics, business intelligence, and operati
 
 With a foundation in Mechanical Engineering, I bring a structured, systems-level mindset to investigating business bottlenecks and building reproducible workflows in **SQL**, **Python (Pandas, NumPy)**, **Power BI**, **Tableau**, and **Excel (Power Query)**.
 
-I am also the creator of **Analyst Simulator**, an interactive business-investigation game designed to help junior analysts practice evidence evaluation and structured problem-solving..  
+I am also the creator of **Analyst Simulator**, (https://analystsimulation.netlify.app) an interactive business-investigation game designed to help junior analysts practice evidence evaluation and structured problem-solving..  
 
 
 ### OPEN TO WORK - [alelumemishael@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=alelumemishael@gmail.com&su=Data%20Analytics%20Portfolio%20Inquiry)
