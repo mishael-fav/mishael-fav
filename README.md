@@ -1,15 +1,18 @@
 <h1 align="center">Hello there,👋 I'm Mishael!</h1>
 
 <h2><p align="center">
-<b>Data Analyst</b>  
+**Data Analyst | Business Intelligence** 
 </p></h2>
-
-### [VIEW RESUME](https://drive.google.com/file/d/109GDIy5dG5QgrZgMhLgEvd4CzVT-28Qk/view?usp=sharing)
-
 ---
 
 ## About Me  
-I am a **Data Analyst** passionate about transforming raw data into actionable insights. With expertise in **business intelligence, data visualization, and data-driven decision-making**, I utilize **Python, SQL, Power BI, and Excel (Power Query)** to extract meaningful trends and support strategic decisions.  
+> *Tools pull the numbers; analytics refines the context. I provide the insight.*
+
+I work at the intersection of data analytics, business intelligence, and operational problem-solving. Rather than treating dashboards as decoration, I focus on the reasoning behind the numbers: auditing data quality, challenging assumptions, distinguishing correlation from causation, and translating findings into clear recommendations.
+
+With a foundation in Mechanical Engineering, I bring a structured, systems-level mindset to investigating business bottlenecks and building reproducible workflows in **SQL**, **Python (Pandas, NumPy)**, **Power BI**, **Tableau**, and **Excel (Power Query)**.
+
+I am also the creator of **Analyst Simulator**, an interactive business-investigation game designed to help junior analysts practice evidence evaluation and structured problem-solving..  
 
 
 ### OPEN TO WORK - [alelumemishael@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=alelumemishael@gmail.com&su=Data%20Analytics%20Portfolio%20Inquiry)
